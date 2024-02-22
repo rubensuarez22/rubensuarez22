@@ -4,7 +4,7 @@ Hi 👋 My name is Ruben Suarez
 Computer Science Engineer Student
 ---------------------------------
 
-- 🌍  I'm based in Puebla
+- 🌍  I'm based in Puebla.
 
 ### Skills
 
