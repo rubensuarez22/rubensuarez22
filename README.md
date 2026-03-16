@@ -4,7 +4,7 @@
 - 🌍 I'm based in Puebla, Mexico.
 - 📱 Specializing in native mobile development (iOS & Android) and scalable architectures.
 - 🎓 Computer Systems Engineering student at UDLAP (Class of 2025).
-- 💡 Passionate about building high-impact products, clean code, and integrating AI & IoT.
+- 💡 Building high-impact products with a strong focus on clean code and AI integration.
 
 ### 🛠️ Tech Stack & Tools
 
